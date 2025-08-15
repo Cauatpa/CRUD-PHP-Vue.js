@@ -9,7 +9,7 @@ use Src\Database\Connection;
 class UserRepository
 {
     private PDO $pdo;
-    private string $table = 'crudphp.crudphp';
+    private string $table = 'crud';
 
     public function __construct()
     {

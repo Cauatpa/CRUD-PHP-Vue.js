@@ -1,13 +1,12 @@
 <?php
 header('Content-Type: application/json; charset=utf-8');
-echo json_encode(["message" => "API funcionando"]);
 
-require_once __DIR__ . '../config/config.php';
-require_once __DIR__ . '../src/Database/Connection.php';
-require_once __DIR__ . '../src/Models/User.php';
-require_once __DIR__ . '../src/Validation/UserValidator.php';
-require_once __DIR__ . '../src/Repositories/UserRepository.php';
-require_once __DIR__ . '../src/Controllers/UserController.php';
+require_once __DIR__ . '../../config/config.php';
+require_once __DIR__ . '../../src/Database/Connection.php';
+require_once __DIR__ . '../../src/Models/User.php';
+require_once __DIR__ . '../../src/Validation/UserValidator.php';
+require_once __DIR__ . '../../src/Repositories/UserRepository.php';
+require_once __DIR__ . '../../src/Controllers/UserController.php';
 
 use Src\Controllers\UserController;
 

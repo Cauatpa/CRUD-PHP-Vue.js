@@ -2,7 +2,7 @@
 return [
     'db' => [
         'host' => 'localhost',
-        'name' => 'crudphp',
+        'name' => 'crud',
         'user' => 'root',
         'pass' => '',
         'charset' => 'utf8mb4'

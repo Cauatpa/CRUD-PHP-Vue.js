@@ -1,5 +1,5 @@
 -- database/schema.sql
-CREATE TABLE IF NOT EXISTS `crudphp` (
+CREATE TABLE IF NOT EXISTS `crud` (
   `id` INT UNSIGNED NOT NULL AUTO_INCREMENT,
   `name` VARCHAR(100) NOT NULL,
   `email` VARCHAR(150) NOT NULL,
