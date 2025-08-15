@@ -1,6 +1,9 @@
 # CRUD - PHP + Vue.js
 
-<h2>Link do código hospedado: https://crud-php-caua.infinityfreeapp.com/ </h2>
+<h2>Link do código hospedado: https://crud-php-caua.infinityfreeapp.com/ 
+<br>
+  TENTE ABRIR O LINK NA GUIA ANONIMA, pois está dando error de cache, até eu arrumar a guia anonima funciona perfeitamte.
+</h2>
 
 <h2>PASSO A PASSO PARA RODAR O CÓDIGO DE FORMA LOCAL</h2>
 
