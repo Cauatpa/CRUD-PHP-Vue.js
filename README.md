@@ -12,7 +12,7 @@
 <p>Crie o banco com o nome "crud" e importe o arquivo schema.sql, na pasta database dentro do seu phpMyAdmin, com o XAMPP.</p>
 
 <h3>Como conectar o banco de dados ao código:</h3>
-<p>Dentro da pasta crud e depois na pasta config, edite o arquivo config.php com as informações do banco de dados criado por você</p>
+<p>Dentro da pasta Project e depois na pasta config, edite o arquivo config.php com as informações do banco de dados criado por você</p>
 
 <h3>Pasta para o código rodar:</h3>
 
